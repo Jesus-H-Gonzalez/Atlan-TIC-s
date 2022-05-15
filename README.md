@@ -17,9 +17,6 @@ Tema: Elaborar Proyecto Web.
 
 En el presente documento se desarrollará como ayudar a la vida  mariana y como la tecnología a través de un sitio web estático, puede brindar una posible solución las especies en extinción, contaminación como; derrames petroleros, prevenir la sobrepesca y la sobre explotación de los mares.
 
-
-El  equipo esta  formado por 5 integrantes del cual es nuestro  primer hackathon, en el cual desarrollaremos nuestros conocimientos adquiridos por Launch X.
-
 Para el  desarrollo del primer punto se considera la creación de nuestro logotipo.
 
 ![image](https://user-images.githubusercontent.com/81430898/168497145-f39ae2b5-0f0c-4996-b654-ace0f66b44b9.png)
