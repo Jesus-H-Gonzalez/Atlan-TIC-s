@@ -24,6 +24,23 @@
     }
     /* Fin: Lista */
 
+        /* Inicio: Botón */
+    .formulario {
+        background-color: aqua;
+        text-align: justify;
+    }
+
+    .formulario {
+        transition-duration: 0.4s;
+      }
+
+    .formulario:hover {
+        background-color: #23ebb9; /* light blue */
+        color: white;
+      }
+
+    /* Fin: Botón */
+
 
 /*Inicio: Afecta a 'Atlantics.html'*/
 
