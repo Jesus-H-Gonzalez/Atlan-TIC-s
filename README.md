@@ -57,3 +57,5 @@ Creación de desagüe naturales.
 Servicios de limpieza de playas y puertos.
 programas comunitarios de recolección de basura.
 Fortalecer las políticas y normas a nivel nacional y regional.
+
+https://www.figma.com/file/ARy0T11Njhp0LAQoZewPjC/order-summary-component?node-id=0%3A82
